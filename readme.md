@@ -1,3 +1,9 @@
+## Test Creation 
+This application was built because of a need to study for an exam and learn the materials instead of just memorizing.
+Currently it will randomize which questions you get and what order the anwser appear it based on the information you have uploaded on the subject matter.
+
+## Built Using Laravel
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
